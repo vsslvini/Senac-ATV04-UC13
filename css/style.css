@@ -13,6 +13,10 @@ body {
 
 /* Barra de navegação */
 
+#navBar{
+    background-color: #ff7f50;
+}
+
 
 /* home */
 
@@ -21,6 +25,13 @@ body {
     display:flex;
     justify-content: center;
     align-items: center;
+}
+
+.main-title {
+    font-size: 30px;
+    text-transform:uppercase;
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 #home-call-to-action {
@@ -74,3 +85,27 @@ body {
 .carousel-item .carousel-caption p {
     margin-top:20px;
 }
+
+/* Main area */
+
+.icon {
+    font-size: 50px;
+    margin-right: 20px;
+}
+
+.sub-title {
+    font-size: 28px;
+}
+
+.caption p {
+    font-size: 20px;
+}
+
+/* .caption {
+    background-color: red;
+}
+
+#main-area .col-md-5 {
+    background-color: blue;
+} */
+
