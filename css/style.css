@@ -114,3 +114,20 @@ body {
 .card img {
     max-height: 160px;
 }
+
+/* Reserva area */
+
+#reserva-area {
+    background-color: #ff7f50;
+}
+
+.btn-dividido {
+    width: 100px;
+    margin-right: 30px;
+}
+
+#reserva-area .main-btn {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+}
