@@ -101,11 +101,16 @@ body {
     font-size: 20px;
 }
 
-/* .caption {
-    background-color: red;
+/* Cards */
+
+#cards-area {
+    margin-bottom: 100px;
 }
 
-#main-area .col-md-5 {
-    background-color: blue;
-} */
+.card {
+    margin-top: 50px;
+}
 
+.card img {
+    max-height: 160px;
+}
